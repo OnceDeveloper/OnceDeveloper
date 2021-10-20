@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 🐱 My Blog
+[Velog](https://velog.io/@once_developer)
 <!--
 **OnceDeveloper/OnceDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
